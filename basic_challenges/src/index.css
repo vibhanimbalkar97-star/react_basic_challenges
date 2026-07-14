@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dark {
+  background-color: #111;
+  color: white;
+  border: 1px solid #111;
+  border-radius: 5px;
+  min-height: 900px;
+}
+
+.light {
+  background-color: #faacac;
+  color: rgb(18, 18, 18);
+  border-radius: 5px;
+  min-height: 900px;
+}
