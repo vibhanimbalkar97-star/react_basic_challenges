@@ -1,5 +1,6 @@
 import Counter from "./components/Counter"
 import LikeButton from "./components/LikeButton"
+import ToggleText from "./components/ToggleText"
 
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
   return (
     <>
     {/* <Counter /> */}
-    <LikeButton />
+    {/* <LikeButton /> */}
+    <ToggleText />
     </>
   )
 }
