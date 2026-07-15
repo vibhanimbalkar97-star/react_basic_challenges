@@ -6,6 +6,7 @@
 // import ToggleText from "./components/ToggleText"
 
 import CharacterCounter from "./components/CharacterCounter"
+import WordCounter from "./components/WordCounter"
 
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
     {/* <ToggleText /> */}
     {/* <ThemeToggle /> */}
     {/* <ShowHidePassword /> */}
-    <CharacterCounter />
+    {/* <CharacterCounter /> */}
+    <WordCounter />
     
     </>
   )
