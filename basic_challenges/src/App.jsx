@@ -8,6 +8,7 @@
 import CharacterCounter from "./components/CharacterCounter"
 import PracticeDate from "./components/DateMethods/PracticeDate"
 import DigitalClock from "./components/DigitalClock"
+import StopWatch from "./components/StopWatch"
 import WordCounter from "./components/WordCounter"
 
 
@@ -24,7 +25,8 @@ function App() {
     {/* <CharacterCounter /> */}
     {/* <WordCounter /> */}
     {/* <PracticeDate /> */}
-    <DigitalClock />
+    {/* <DigitalClock /> */}
+    <StopWatch />
     
     </>
   )
