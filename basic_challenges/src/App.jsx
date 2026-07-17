@@ -5,6 +5,7 @@
 // import ThemeToggle from "./components/ThemeToggle"
 // import ToggleText from "./components/ToggleText"
 
+import AutoHideMessage from "./components/AutoHideMessage"
 import CharacterCounter from "./components/CharacterCounter"
 import PracticeDate from "./components/DateMethods/PracticeDate"
 import DigitalClock from "./components/DigitalClock"
@@ -26,7 +27,8 @@ function App() {
     {/* <WordCounter /> */}
     {/* <PracticeDate /> */}
     {/* <DigitalClock /> */}
-    <StopWatch />
+    {/* <StopWatch /> */}
+    <AutoHideMessage />
     
     </>
   )
